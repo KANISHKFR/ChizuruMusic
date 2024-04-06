@@ -1,7 +1,7 @@
 {
-    "name": "Chizuru Music",
+    "name": "♪ 𝐒ᴘᴏᴛɪғʏ ✘ 𝐌ᴜsɪᴄ™ ˹ғᴄʜ˼",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/5d73d3a4940ea78fbc7f3.jpg",
+    "logo": "https://telegra.ph/file/20616fee95a92061c29e6.jpg",
     "keywords": ["python3","telegram","MusicBot","telegram-bot","pyrogram"],
     "stack": "container",
     "env": {    
